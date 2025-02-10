@@ -2,23 +2,23 @@
 ### Hi there! 👋 I'm **Awais Asghar**  
 #### 🚀 AI Engineer | NLP & Computer Vision Specialist  
 
-I'm a passionate **AI Engineer** with expertise in **Natural Language Processing (NLP), Computer Vision, and Real-Time System Integration**. With over **2 years of experience**, I specialize in developing AI-driven applications, particularly in **Large Language Models (LLMs)** like **LLAMA3, Gemini, and GPT**. My work focuses on AI implementation in **drones, defense systems, and automation**.  
+I'm a passionate **AI Engineer** with expertise in **Natural Language Processing (NLP), Computer Vision, and Real-Time System Integration**. With over **2 years of experience**, I specialize in developing AI-driven applications, particularly in **Large Language Models (LLMs)** like **LLAMA3, Gemini, and GPT**. My work focuses on **real-time AI solutions** for high-precision applications in various domains.  
 
 I’m always eager to explore innovative AI solutions, whether in **retrieval-augmented generation (RAG), object tracking, OCR, or geospatial AI**.  
 
 ---
 
 ## 🔭 **Currently Working On:**
-- **Remote Weapon Stations (RWS)** – Object detection and tracking up to **300m** range for real-time defense applications.
-- **Drone Payload Systems** – Developing **precision payload dropping algorithms** that optimize **wind dynamics, altitude, and targeting accuracy**.
-- **AI-Powered Object Detection & Tracking** – Implementing AI models on **Raspberry Pi 5 with Pi Hut AI** for **FPV drones**.
+- **Real-Time Object Detection & Tracking**: Developing advanced AI models for high-precision object detection and tracking in dynamic environments.
+- **Edge AI Deployment**: Implementing AI models on edge devices like **Raspberry Pi 5** and **Jetson Nano** for real-time applications.
+- **Precision Algorithms**: Designing algorithms for optimizing performance in challenging conditions, such as variable wind dynamics and altitude.
 
 ---
 
 ## 🤝 **Looking to Collaborate On:**
-- **Computer Vision** projects, especially related to **drones, surveillance, and tracking**.
+- **Computer Vision** projects, especially related to **real-time tracking, surveillance, and automation**.
 - **Retrieval-Augmented Generation (RAG)** applications.
-- **AI in Defense & Security**.
+- **AI in Defense & Security** (non-sensitive projects only).
 - **Real-Time AI Deployments** on edge devices like **Raspberry Pi, Jetson Nano, and microcontrollers**.
 
 ---
