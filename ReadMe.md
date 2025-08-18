@@ -2,7 +2,7 @@
 ### Hi there! 👋 I'm **Awais Asghar**  
 #### 🚀 AI Engineer | NLP & Computer Vision Specialist  
 
-I'm a passionate **AI Engineer** with expertise in **Natural Language Processing (NLP), Computer Vision, and Real-Time System Integration**. With over **2 years of experience**, I specialize in developing AI-driven applications, particularly in **Large Language Models (LLMs)** like **LLAMA3, Gemini, and GPT**. My work focuses on **real-time AI solutions** for high-precision applications in various domains.  
+I'm a passionate **AI Engineer** with expertise in **Natural Language Processing (NLP), Computer Vision, and Real-Time System Integration**. With over **4 years of experience**, I specialize in developing AI-driven applications, particularly in **Large Language Models (LLMs)** like **LLAMA3, Gemini, and GPT**. My work focuses on **real-time AI solutions** for high-precision applications in various domains.  
 
 I’m always eager to explore innovative AI solutions, whether in **retrieval-augmented generation (RAG), object tracking, OCR, or geospatial AI**.  
 
